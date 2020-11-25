@@ -1,0 +1,214 @@
+# depslib dependency file v1.0
+1606266465 source:c:\programacion1\parcialbicis\common.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Common.h"
+
+1606266429 c:\programacion1\parcialbicis\common.h
+
+1606273151 source:c:\programacion1\parcialbicis\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606266351 c:\programacion1\parcialbicis\linkedlist.h
+
+1606309685 source:c:\programacion1\parcialbicis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Controller.h"
+	"Common.h"
+
+1606310143 source:c:\programacion1\parcialbicis\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+
+1606309958 c:\programacion1\parcialbicis\bicicleta.h
+	"LinkedList.h"
+
+1606310153 source:c:\programacion1\parcialbicis\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Parser.h"
+	"Controller.h"
+	<string.h>
+
+1606310140 c:\programacion1\parcialbicis\parser.h
+
+1606274373 c:\programacion1\parcialbicis\controller.h
+
+1606309975 source:c:\programacion1\parcialbicis\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"Bicicleta.h"
+	<string.h>
+	<time.h>
+
+1606314413 source:c:\users\imetta\downloads\parcialbicis\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"Bicicleta.h"
+	<string.h>
+	<time.h>
+
+1606314385 c:\users\imetta\downloads\parcialbicis\bicicleta.h
+	"LinkedList.h"
+
+1606312517 c:\users\imetta\downloads\parcialbicis\linkedlist.h
+
+1606266465 source:c:\users\imetta\downloads\parcialbicis\common.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Common.h"
+
+1606266429 c:\users\imetta\downloads\parcialbicis\common.h
+
+1606314540 source:c:\users\imetta\downloads\parcialbicis\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Parser.h"
+	"Controller.h"
+	<string.h>
+
+1606314518 c:\users\imetta\downloads\parcialbicis\parser.h
+
+1606274373 c:\users\imetta\downloads\parcialbicis\controller.h
+
+1606312519 source:c:\users\imetta\downloads\parcialbicis\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606314899 source:c:\users\imetta\downloads\parcialbicis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Controller.h"
+	<time.h>
+	"Common.h"
+
+1606314706 source:c:\users\imetta\downloads\parcialbicis\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+
+1606314413 source:c:\programacion1\git\metta.ivan.pplab1\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"Bicicleta.h"
+	<string.h>
+	<time.h>
+
+1606315417 c:\programacion1\git\metta.ivan.pplab1\bicicleta.h
+	"LinkedList.h"
+
+1606312517 c:\programacion1\git\metta.ivan.pplab1\linkedlist.h
+
+1606266465 source:c:\programacion1\git\metta.ivan.pplab1\common.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Common.h"
+
+1606266429 c:\programacion1\git\metta.ivan.pplab1\common.h
+
+1606314540 source:c:\programacion1\git\metta.ivan.pplab1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Parser.h"
+	"Controller.h"
+	<string.h>
+
+1606314518 c:\programacion1\git\metta.ivan.pplab1\parser.h
+
+1606315502 c:\programacion1\git\metta.ivan.pplab1\controller.h
+
+1606314706 source:c:\programacion1\git\metta.ivan.pplab1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+
+1606315577 source:c:\programacion1\git\metta.ivan.pplab1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606314413 source:c:\programacion1\git\metta.ivan.splabi.1a\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"Bicicleta.h"
+	<string.h>
+	<time.h>
+
+1606315417 c:\programacion1\git\metta.ivan.splabi.1a\bicicleta.h
+	"LinkedList.h"
+
+1606312517 c:\programacion1\git\metta.ivan.splabi.1a\linkedlist.h
+
+1606266465 source:c:\programacion1\git\metta.ivan.splabi.1a\common.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Common.h"
+
+1606266429 c:\programacion1\git\metta.ivan.splabi.1a\common.h
+
+1606314540 source:c:\programacion1\git\metta.ivan.splabi.1a\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Parser.h"
+	"Controller.h"
+	<string.h>
+
+1606314518 c:\programacion1\git\metta.ivan.splabi.1a\parser.h
+
+1606315502 c:\programacion1\git\metta.ivan.splabi.1a\controller.h
+
+1606315577 source:c:\programacion1\git\metta.ivan.splabi.1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606315871 source:c:\programacion1\git\metta.ivan.splabi.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Controller.h"
+	<time.h>
+	"Common.h"
+
+1606314706 source:c:\programacion1\git\metta.ivan.splabi.1a\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+
